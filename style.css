@@ -1,0 +1,52 @@
+.title {
+    text-align: center;
+    background-color: aquamarine;
+    border-top-style: solid;
+    border-top-color: black;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-right-style: solid;
+    border-right-color: black;
+    border-left-style: solid;
+    border-left-color: black;
+}
+
+#main-head {
+    font-size: 30px;
+    font-weight: 800;
+    color: orange;
+}
+
+#catch-phrase {
+    font-size: 18px;
+    color: brown;
+}
+
+#intro-image {
+    width: 200px;
+    height: auto;
+}
+
+main {
+    border-top-style: solid;
+    border-top-color: black;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-right-style: solid;
+    border-right-color: black;
+    border-left-style: solid;
+    border-left-color: black;
+    background-color: grey;
+    height: 600px;
+    text-align: center;
+}
+
+.para {
+    font-size: 30px;
+    font-weight: 800;
+    color: deepskyblue;
+}
+
+.links {
+    font-size: 20px;
+}
